@@ -68,7 +68,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-
+.myenv
 */node_modules
 
 # VSCode
